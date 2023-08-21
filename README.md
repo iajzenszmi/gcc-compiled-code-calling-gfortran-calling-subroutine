@@ -1,3 +1,5 @@
+Source code copied from
+https://stackoverflow.com/questions/8207997/calling-a-fortran-subroutine-from-c
 # gcc-compiled-code-calling-gfortran-calling-subroutine
 (00:48 ian@ian-Aspire-One-753 ~) > gfortran myfortsub.f90 -c
 (00:49 ian@ian-Aspire-One-753 ~) > gfortran myfortsub.f -ffree-form -c
